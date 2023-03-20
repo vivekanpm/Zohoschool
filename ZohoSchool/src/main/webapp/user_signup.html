@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+<style> 
+
+body {font-family: Times new roman;}
+form {border: 2px  solid red
+width 300px;}
+
+.border {
+  border: 7px #4266f5 ;
+  padding: 25px 50px;
+  background-color: #b3d1ff;
+  width:350px;
+  }
+
+
+input[type=text], input[type=password] {
+  width: 65%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+
+button{
+  background-color: #0066ff;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 65%;
+}
+
+
+</style>
+
+</head>
+
+<body>
+
+<div style="text-align:center; margin: 200px 500px 500px 700px ; ">
+   <div class="border">
+   
+      <h2>Welcome </h2>
+      <form action ="insert" method ="post">
+    
+       <input type="text" placeholder="Enter First name" name ="F_name" required> <br>          
+       <input type="text" placeholder="Enter Last name" name ="L_name" required> <br>      
+       <input type="date" placeholder="Enter dob" name ="dob" required> <br>       
+       <input type="text" placeholder="Enter email" name ="email" required> <br>       
+       <input type="password" placeholder="Enter password" name ="pass" required> <br>
+ 
+       <button type="submit"> SIGNUP</button> <br>
+
+       </form>
+       Already have an account <a  href="index.html"> Login</a>
+    </div>
+</div>
+
+
+
+</body>
+</html>
+

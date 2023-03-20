@@ -1,0 +1,159 @@
+@charset "UTF-8";
+
+
+.p1{
+	position :relative; 
+	font-size: large;
+	font-family: arial;
+	color:white;
+	
+}
+
+.h1{
+	position :relative; 
+	margin-top:20px;
+	top:20px;
+	font-size: xxx-large;
+	font-family: arial;
+	color:white;
+	
+}
+.h2{
+	position :relative;
+	left : 10 px ;
+	
+}
+
+.h3{
+	position :relative;
+	top:10px;
+	
+}
+
+.h4{
+	position : relative; 
+	top:400 px;
+	
+}
+
+.p{
+	position :relative; 
+	font-size: large;
+}
+.p2{
+	position :relative ;
+	
+}
+.p3{
+	position :relative; 
+	top:130 px;
+	
+}
+
+.whole{
+	position :relative; 
+	left:10px;
+	
+}
+
+.v1{
+	position :relative; 
+	top:10 px;
+	}
+
+.p4{
+	text-align:center;
+}
+
+.image{
+	
+	width : 300 px; 
+	height :400 px;
+}
+
+
+.borderTop {
+  border: 7px #4266f5 ;
+  background-color: #126f9a;
+  width:2000 px;
+  height :125px;
+  }
+  
+  
+.borderMid {
+  border: 20px solid white ;
+  box-sizing: border-box;
+  background-color:   #f2f2f2;
+  width:500px;
+  height :700px;
+  float: left;
+
+  }
+  
+.borderLeft{
+  border: 20px solid white ;
+  box-sizing: border-box;
+  background-color:#f2f2f2;
+  width:900px;
+  height :700px;
+  float : left;
+}
+  
+  
+.borderRight{
+  border: 20px solid white ;
+  box-sizing: border-box;
+  background-color: #f2f2f2;
+  width:400px;
+  height :700px;
+  float : left;
+  
+  }
+
+.menu {
+  float: left;
+	margin-top:100px;
+  width: 45%;
+  text-align: center;
+   color: red;
+}
+
+.menu a {
+  
+  margin-left:100px;
+  background-color: #e5e5e5;
+  padding: 15px;
+	font-size:x-large;
+  margin-top: 20px;
+  display: block;
+  width: 100%;
+	color:black;
+  text-decoration: none;
+ 
+}
+
+.button{
+  background-color: #126f9a;
+  width : 50%;
+ font-size :x-large;
+	color:white;
+ text-align: center;
+  margin-top : 500px;
+  margin-left : -110px;
+}
+
+
+
+.courseImagedown{
+	
+	margin-top:100px;
+	margin-left:30px;
+}
+
+
+.margin{
+	margin-left:100px;
+	margin-top:30px;
+}
+
+

@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+.body{
+	text-align: center;
+	margin: 200px 400px 500px 700px ;
+}
+
+.button{
+  background-color:  #126f9a;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 75%;
+}
+
+
+
+.border {
+  border: 7px #4266f5 ;
+  border-radius : 15px;
+  padding: 25px 50px;
+  background-color: white;
+  width:300px;
+  }
+  
+  
+  
